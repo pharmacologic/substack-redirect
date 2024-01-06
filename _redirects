@@ -1,3 +1,9 @@
-##  permanent redirect from / to www.*
+##  permanent (cached) redirect from / to www.*
 
 /*  https://www.your-substack-domain.com/  301
+
+##  if you need redirects for short url purposes,
+##
+##  /location  https://example.org/some/path
+##  
+##  will redirect from your-domain.tld/location to https://example.org/some/path
