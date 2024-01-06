@@ -3,7 +3,7 @@ example redirect for substack custom domain (`/ -> www.*`), using free static si
 
 `_redirects` file valid for [netlify](https://www.netlify.com/) ([docs](https://docs.netlify.com/routing/redirects/redirect-options/)) and [codeberg pages](https://codeberg.page/) ([docs](https://docs.codeberg.org/codeberg-pages/redirects/))
 
-## quickly deploy
+## quick deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/pharmacologic/substack-redirect)
 
