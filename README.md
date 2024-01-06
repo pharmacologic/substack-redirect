@@ -9,6 +9,13 @@ example redirect for substack custom domain (`/ -> www.*`), using free static si
 
 you will want to edit `_redirects` to reflect your actual URL
 
+for a maybe less corporate option, you could fork [this repository](https://codeberg.org/pharmacologic/substack-redirect) on codeberg to use with [codeberg pages](https://codeberg.page)
+
 ## dns
 
-you will also need to configure DNS so that the root of your domain is pointing to your static site host
+you will also need to configure DNS so that the root (apex) of your domain is pointing to your static site host
+
+https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/
+
+https://docs.codeberg.org/codeberg-pages/using-custom-domain/
+
