@@ -9,6 +9,8 @@ example redirect for substack custom domain (`/ -> www.*`), using free static si
 
 you will want to edit `_redirects` to reflect your actual URL
 
+## dns
+
 you will also need to configure DNS so that the root of your domain is pointing to your static site host
 
 note: using a custom domain with netlify requires you to use their nameservers for your domain, so you will have to recreate a `www` DNS record for your substack newsletter in the netlify domain settings
