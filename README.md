@@ -5,6 +5,8 @@ example redirect for substack custom domain (`/ -> www.*`), using free static si
 
 ## quick deploy
 
+you can use the this button to automatically fork the repository while connecting it with netlify as a site
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/pharmacologic/substack-redirect)
 
 you will want to edit `_redirects` to reflect your actual URL
