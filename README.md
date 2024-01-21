@@ -11,7 +11,7 @@ you can use this button to automatically fork the repository while connecting it
 
 you will want to edit `_redirects` to reflect your actual URL
 
-for a maybe less corporate option, you could fork [this repository](https://codeberg.org/pharmacologic/substack-redirect) on codeberg to use with [codeberg pages](https://codeberg.page)
+(for a maybe less corporate option, you could fork [this repository](https://codeberg.org/pharmacologic/substack-redirect) on codeberg to use with [codeberg pages](https://codeberg.page))
 
 ## dns
 
